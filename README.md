@@ -75,17 +75,6 @@ If a single framework can explain more existing “why”s — including the arr
 
 ---
 
-## 8. Black Hole Cosmology
-
-- Big Bang cosmology assumes a singularity at the origin.
-- However, it gives no account of **how the universe could "exit" the black hole condition**.
-- This model argues instead that the universe has never exited, and is still **inside a black hole**.
-- The flatness and normal causality of the current universe are natural consequences of the **internal conditions of black hole slices**.
-- A globally unidirectional time flow implies a **global gravitational anchor**,  
-  → which is only naturally explained if the **entire observable universe lies on the internal shell of a black hole**.
-
----
-
 ## License
 
 This work is provided openly for thought, critique, and debate.  
